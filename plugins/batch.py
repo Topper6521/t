@@ -58,7 +58,7 @@ async def batch(c, m):
             await m.reply(text="Set your CHANNELS var to True in HEROKU to use this command")
     elif m.from_user.id not in ADMINS:
         await m.reply_text(
-                f"""This bot works only for ADMINS of this bot. Make your own Bot.\n\n[Source Code]({SOURCE_CODE})""")
+                f"""This bot works only for ADMINS Join To Get Movies :- @thekiku.\n\n[Source Code]({SOURCE_CODE})""")
 
 
 @Client.on_callback_query(filters.regex(r'^cancel') | filters.regex(r'^batch'))
