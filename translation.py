@@ -7,6 +7,8 @@ I'm a bot to short your links mdisk.me
 
 Hit /help for how to use
 
+Need Movies :- @thekiku
+Backup :- @teamkiku
 '''
 
 
@@ -30,6 +32,8 @@ admin in your channel.\n\nCommand usage: `/batch [channel id or username]`
 
 /help - The current command
 
+Need Movies :- @thekiku
+Backup :- @teamkiku
 /about - About this bot
 '''
 
