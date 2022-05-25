@@ -44,6 +44,6 @@ ABOUT_TEXT = """
 📝 Language: [Python 3](https://www.python.org/)
 🧰 Framework: [Pyrogram](https://github.com/pyrogram/pyrogram)
 👨‍💻 Developer: [Dev](t.me/tgxbots)
-📢 Support: [Talk Bot](https://t.me/teamkiku)
-🌐 Movies: [https://t.me/thekiku)
+📢 Support: [Team](https://t.me/teamkiku)
+🌐 Movies: [Movies](https://t.me/thekiku)
 """
